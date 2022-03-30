@@ -1,0 +1,9 @@
+{
+  "name": "quick-template-js",
+  "version": "1.0.0",
+  "description": "JavaScript快速开始模板",
+  "main": "index.js",
+  "repository": "git@github.com:ScoutYin/quick-template-js.git",
+  "author": "ScoutYin <scoutyin.1900@gmail.com>",
+  "license": "MIT"
+}
